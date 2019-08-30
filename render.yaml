@@ -2,5 +2,5 @@ services:
 - type: web
   name: vuepress-example
   env: static
-  buildCommand: yarn && ./node_modules/vuepress/cli.js build
+  buildCommand: yarn && yarn build
   staticPublishPath: .vuepress/dist
