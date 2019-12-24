@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
-    },
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
