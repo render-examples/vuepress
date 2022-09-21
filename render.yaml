@@ -4,3 +4,4 @@ services:
   env: static
   buildCommand: yarn && yarn build
   staticPublishPath: .vuepress/dist
+  autoDeploy: false
